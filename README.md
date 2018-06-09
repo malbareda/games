@@ -4,15 +4,6 @@
 
 Games on this Github
 
-# Table of Contents.
-
-- [Tools](#tools)
-- [Java](#java)
-- [Unity] (#unity)
-  - [2D] (#unity-2d)
-  - [2.5D] (#unity-25d)
-  - [3D] (#unity-3d)
-- [Work in Progress] (#wip)
   
   -------
 
@@ -25,11 +16,15 @@ While not games, those are tools used for creating games
 
 # Java
 
+Games made on Java
+
 * [Bomberman](https://github.com/malbareda/Bomberman2) - Bomberman Game made in Java with the Taulell Engine
 * [bOOmberman](https://github.com/malbareda/Bomberman2/tree/BombermanOO) - Object Oriented Implementation of Bomberman, with new additions, like powerups
 
 
 # Unity
+
+Games made with the Unity Engine 
 
 ## 2D
 
