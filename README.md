@@ -1,4 +1,4 @@
-<h1 align="center"> <br> <img width="300" src="/img/controller.png" alt="GameDev Resources"> <br> </h1>
+<h1 align="center"> <br> <img width="300" src="http://getdrawings.com/images/video-game-controller-drawing-11.png" alt="GameDev Resources"> <br> </h1>
 
 #Games
 
