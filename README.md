@@ -29,7 +29,7 @@ Games made with the Unity Engine
 ## 2D
 
 * [Shooter](https://github.com/malbareda/shooter) - 2D Unity game greatly expanding the Unity Shooter Tutorial
-* [Arkanoid]() - Simple Arkanoid Game
+* [Arkanoid](https://github.com/malbareda/Arkanoid) - Simple Arkanoid Game
 * [DonkeyKong](https://github.com/malbareda/DonkeyKong) - Project based on "Complete C# Unity Developer 2D - Learn to Code Making Games" course and expanded from there.
 
 ## 3D
