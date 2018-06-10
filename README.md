@@ -34,7 +34,7 @@ Games made with the Unity Engine
 
 ## 3D
 
-* [Dangerous Olot](https://github.com/malbareda/shooter)  - 3D Unity game, using collisions and meshes.
+* [Dangerous Olot](https://github.com/malbareda/Dangerous-Olot)  - 3D Unity game, using collisions and meshes.
 * [Roll](https://github.com/malbareda/Roll) - 3D Unity game
 
 
