@@ -30,7 +30,7 @@ Games made with the Unity Engine
 
 * [Shooter](https://github.com/malbareda/Shooter2D) - 2D Unity game greatly expanding the Unity Shooter Tutorial
 * [Arkanoid](https://github.com/malbareda/Arkanoid) - Simple Arkanoid Game
-* [---](https://github.com/malbareda/Bomberman2) - Project Game made in "Complete C# Unity Developer 2D - Learn to Code Making Games" course.
+* [DonkeyKong](https://github.com/malbareda/DonkeyKong) - Project based on "Complete C# Unity Developer 2D - Learn to Code Making Games" course and expanded from there.
 
 ## 2.5D
 
@@ -42,9 +42,4 @@ Games made with the Unity Engine
 * [Cosas que Caen](https://github.com/malbareda/cosasquecaen) - 3D Simple Unity game
 * [Roll](https://github.com/malbareda/Roll) - 3D Unity game
 
-# Work in Progress
-
-* [3DShooter](https://github.com/malbareda/Roll2) - 3D Implementation of the 2D Shooter Game
-* [Rocemon Go](https://github.com/malbareda/Rocemon) - Simple Implementation of Augmented Reality
-* [Tanks! IA](https://github.com/malbareda/TanksIA) - IA Implementation on the Unity Tanks Tutorial
 
