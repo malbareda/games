@@ -29,17 +29,12 @@ Games made with the Unity Engine
 ## 2D
 
 * [Shooter](https://github.com/malbareda/shooter) - 2D Unity game greatly expanding the Unity Shooter Tutorial
-* [Arkanoid](https://github.com/malbareda/Arkanoid) - Simple Arkanoid Game
+* [Arkanoid]() - Simple Arkanoid Game
 * [DonkeyKong](https://github.com/malbareda/DonkeyKong) - Project based on "Complete C# Unity Developer 2D - Learn to Code Making Games" course and expanded from there.
-
-## 2.5D
-
-* [Los Misiles me Odian](https://github.com/malbareda/MisilesOdian) - 2.5D Unity game using navmeshes and pathfinding
-* [ClickClick](https://github.com/malbareda/ClickClick) - 2.5D Simple Unity game
 
 ## 3D
 
-* [Cosas que Caen](https://github.com/malbareda/cosasquecaen) - 3D Simple Unity game
+* [Cosas que Caen]() - 3D Simple Unity game
 * [Roll](https://github.com/malbareda/Roll) - 3D Unity game
 
 
