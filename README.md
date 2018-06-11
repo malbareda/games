@@ -32,7 +32,7 @@ Games made with the Unity Engine
 * [Arkanoid](https://github.com/malbareda/Arkanoid) - Simple Arkanoid Game
 * [DonkeyKong](https://github.com/malbareda/DonkeyKong) - Project based on "Complete C# Unity Developer 2D - Learn to Code Making Games" course and expanded from there.
 
-## 2D
+## 2.5D
 * [Los Misiles me Odian](https://github.com/malbareda/MisilesOdian) - 2.5D Isometric Unity game with navigation algorithms and pathfinding
 
 ## 3D
